@@ -305,6 +305,7 @@
 | [Video Download Link Crawler](https://apify.com/gentle_cloud/video-download-link-crawler?fpr=p2hrc6) | Extract direct download links and metadata from video URLs. Supports 1000+ sites including YouTube, Vimeo, TikTok, Twitter/X, Dailymotion, and more. |
 | [Video Transcript](https://apify.com/agentx/video-transcript?fpr=p2hrc6) | Universal video-to-text API across YouTube, TikTok, Instagram, X, Facebook, Vimeo and 1000+ platforms. Returns the full transcript as timestamped segments with the source video metadata, optionally... |
 | [TikTok Scraper — Videos, Profiles, Comments & Trends](https://apify.com/magicfingers/tiktok-scraper?fpr=p2hrc6) | Scrape TikTok data at scale: search videos by keyword/hashtag, scrape user profiles, video details with stats, comments, and trending hashtags. Returns clean JSON with full metadata. |
+| [✨ TikTok Video Details](https://apimesa.com) | Resolve public TikTok video captions, creators, thumbnails, and embeddable metadata through the public oEmbed interface. |
 
 </details>
 
@@ -732,6 +733,7 @@
 | [Ultra FAST Instagram Profile Scraper](https://apify.com/rover-omniscraper/instagram-profile-scraper?fpr=p2hrc6) | The fastest Instagram profile scraper on Apify. Extract followers, bio, business info, posts & more via Instagram's internal API — no login, no browser. Concurrent scraping, rotating proxies & 60+... |
 | [Username Availability Checker 🔍](https://apify.com/easyapi/username-availability-checker?fpr=p2hrc6) | Check username availability across 80+ platforms including Twitter, Instagram, YouTube, GitHub, and more! Get instant results with platform logos, URLs, and availability status. Essential tool for... |
 | [Website Emails, Phones & Social Profiles Scraper](https://apify.com/igolaizola/web-contact-scraper?fpr=p2hrc6) | Scrape emails, phone numbers, and social profiles (LinkedIn, X/Twitter, Facebook, Instagram) from a bulk list of website URLs/domains. Great for lead generation, cold outreach, sales prospecting,... |
+| [✨ Instagram Public Post Details](https://apimesa.com) | Extract public Instagram post metadata, captions, images, canonical URLs, and structured page data when the source permits crawling. |
 
 </details>
 
@@ -904,5 +906,6 @@
 | [Tiktok Url Expander](https://apify.com/trinityhades/tiktok-url-expander?fpr=p2hrc6) | Follows redirects for one or many shortened TikTok (or any) URLs and returns the final resolved URL plus redirect chain. |
 | [YouTube Channel Email Scraper — Emails, Phones & Socials](https://apify.com/khadinakbar/youtube-channel-email-extractor?fpr=p2hrc6) | YouTube channel email scraper. Extracts emails, phones, Instagram, TikTok, Twitter & 4 more socials by niche or URL. Follows Linktree & websites. No login. |
 | [Meta Ads Library Scraper - Competitor Ad Intel](https://apify.com/harvestlab/facebook-ads-library-scraper?fpr=p2hrc6) | Meta Ads Library scraper for competitor ad intelligence: Facebook/Instagram creatives, spend and impression ranges, demographics, active status, and AI creative analysis. Official Graph API with web... |
+| [✨ Social Video Info](https://apimesa.com) | Get the real title, author, and thumbnail for a YouTube, TikTok, Instagram, or Vimeo video via official oEmbed and Open Graph data. |
 
 </details>
